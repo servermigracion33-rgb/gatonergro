@@ -1,0 +1,35 @@
+[00:05:18] [Server thread/INFO]: Villager dcx['Nitwit'/27, l='ServerLevel[world]', x=2317.30, y=76.00, z=-197.30] died, message: 'Nitwit was slain by Zombie'
+[00:09:52] [Server thread/INFO]: chino555 has made the advancement [Take Aim]
+[00:19:26] [Server thread/INFO]: [Not Secure] [Server] asd
+[00:19:32] [Server thread/INFO]: [Not Secure] <chino555> asd
+[00:19:49] [Server thread/INFO]: [Not Secure] [Server] me olvide de quitar parece los backups automaticos
+[00:19:55] [Server thread/INFO]: [Not Secure] <chino555> entonce
+[00:19:57] [Server thread/INFO]: [Not Secure] [Server] si, me olvide de quitarlosq  loco
+[00:20:02] [Server thread/INFO]: [Not Secure] <chino555> entonce
+[00:20:06] [Server thread/INFO]: [Not Secure] [Server] bueno nada mal la veradd
+[00:20:15] [Server thread/INFO]: [Not Secure] [Server] tenemos varios respaldos xd
+[00:20:25] [Server thread/INFO]: [Not Secure] <chino555> eso no podes descargarlo?
+[00:21:02] [Server thread/INFO]: [Not Secure] [Server] si, pero al hacer asi la migracion e sun oco arriesgado 
+[00:21:07] [Server thread/INFO]: [Not Secure] [Server] la ultima ve
+[00:21:13] [Server thread/INFO]: [Not Secure] [Server] me olvide que estamos en llamada
+[00:21:15] [Server thread/INFO]: [Not Secure] <chino555> cierto
+[00:25:16] [Server thread/INFO]: chino555 lost connection: Disconnected
+[00:25:16] [Server thread/INFO]: chino555 left the game
+[00:25:28] [Server thread/INFO]: chino555[/10.242.90.119:50808] logged in with entity id 15218 at (398.30000001192093, 63.0, 524.6999999880791)
+[00:25:28] [Server thread/INFO]: chino555 joined the game
+[00:33:30] [Server thread/INFO]: [Not Secure] [Server] asd
+[00:46:48] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[00:46:48] [Server thread/INFO]: UPFUTX_300 left the game
+[00:46:59] [Server thread/INFO]: chino555 lost connection: Disconnected
+[00:46:59] [Server thread/INFO]: chino555 left the game
+[00:47:01] [Server thread/INFO]: Stopping the server
+[00:47:01] [Server thread/INFO]: Stopping server
+[00:47:01] [Server thread/INFO]: Saving players
+[00:47:01] [Server thread/INFO]: Saving worlds
+[00:47:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:47:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:47:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:47:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:47:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:47:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:47:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
